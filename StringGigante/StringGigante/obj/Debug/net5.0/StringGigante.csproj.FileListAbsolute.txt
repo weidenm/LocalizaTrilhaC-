@@ -1,0 +1,16 @@
+C:\Users\weide\source\repos\StringGigante\StringGigante\bin\Debug\net5.0\StringGigante.exe
+C:\Users\weide\source\repos\StringGigante\StringGigante\bin\Debug\net5.0\StringGigante.deps.json
+C:\Users\weide\source\repos\StringGigante\StringGigante\bin\Debug\net5.0\StringGigante.runtimeconfig.json
+C:\Users\weide\source\repos\StringGigante\StringGigante\bin\Debug\net5.0\StringGigante.runtimeconfig.dev.json
+C:\Users\weide\source\repos\StringGigante\StringGigante\bin\Debug\net5.0\StringGigante.dll
+C:\Users\weide\source\repos\StringGigante\StringGigante\bin\Debug\net5.0\ref\StringGigante.dll
+C:\Users\weide\source\repos\StringGigante\StringGigante\bin\Debug\net5.0\StringGigante.pdb
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\StringGigante.csproj.AssemblyReference.cache
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\StringGigante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\StringGigante.AssemblyInfoInputs.cache
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\StringGigante.AssemblyInfo.cs
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\StringGigante.csproj.CoreCompileInputs.cache
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\StringGigante.dll
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\ref\StringGigante.dll
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\StringGigante.pdb
+C:\Users\weide\source\repos\StringGigante\StringGigante\obj\Debug\net5.0\StringGigante.genruntimeconfig.cache

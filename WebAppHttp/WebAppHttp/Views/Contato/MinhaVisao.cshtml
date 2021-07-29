@@ -1,0 +1,19 @@
+﻿@{
+    Layout = "/Views/Shared/_NossoLayout.cshtml";
+
+}
+
+@model List<WebAppHttp.Controllers.ContatoDto>
+
+    <p> Contato - Minha Visão</p>
+    @{
+    foreach (var item in Model)
+    {
+    <p> item.Nome</p>
+    <p> item.DataNascimento</p>
+    }
+    }
+    <p>@Model.Nome</p>
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>

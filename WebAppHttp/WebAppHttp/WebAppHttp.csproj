@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+<ItemGroup>
+    <Content Remove="Views\Contato\Index.cshtml" />
+    <Content Remove="Views\Contato\MinhaVisao.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Views\Contato\MinhaVisao.cshtml" />
+    <Compile Include="Views\Contato\Index.cshtml" />
+  </ItemGroup>
+	
+
+</Project>
